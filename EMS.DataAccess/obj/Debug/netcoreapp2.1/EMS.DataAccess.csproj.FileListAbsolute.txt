@@ -1,0 +1,38 @@
+D:\Work\EMS\employee-maintenance-system\EMS\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.csprojAssemblyReference.cache
+D:\Work\EMS\employee-maintenance-system\EMS\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.csproj.CoreCompileInputs.cache
+D:\Work\EMS\employee-maintenance-system\EMS\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.AssemblyInfoInputs.cache
+D:\Work\EMS\employee-maintenance-system\EMS\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.AssemblyInfo.cs
+D:\Work\EMS\employee-maintenance-system\EMS\EMS.DataAccess\bin\Debug\netcoreapp2.1\EMS.DataAccess.deps.json
+D:\Work\EMS\employee-maintenance-system\EMS\EMS.DataAccess\bin\Debug\netcoreapp2.1\EMS.DataAccess.dll
+D:\Work\EMS\employee-maintenance-system\EMS\EMS.DataAccess\bin\Debug\netcoreapp2.1\EMS.DataAccess.pdb
+D:\Work\EMS\employee-maintenance-system\EMS\EMS.DataAccess\bin\Debug\netcoreapp2.1\EMS.Model.dll
+D:\Work\EMS\employee-maintenance-system\EMS\EMS.DataAccess\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Work\EMS\employee-maintenance-system\EMS\EMS.DataAccess\bin\Debug\netcoreapp2.1\EMS.Model.pdb
+D:\Work\EMS\employee-maintenance-system\EMS\EMS.DataAccess\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+D:\Work\EMS\employee-maintenance-system\EMS\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.csproj.CopyComplete
+D:\Work\EMS\employee-maintenance-system\EMS\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.dll
+D:\Work\EMS\employee-maintenance-system\EMS\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.pdb
+D:\Projects\employee-maintenance-system\employee-maintenance-system\EMS\EMS.DataAccess\bin\Debug\netcoreapp2.1\EMS.Model.dll
+D:\Projects\employee-maintenance-system\employee-maintenance-system\EMS\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.csprojAssemblyReference.cache
+D:\Projects\employee-maintenance-system\employee-maintenance-system\EMS\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.AssemblyInfoInputs.cache
+D:\Projects\employee-maintenance-system\employee-maintenance-system\EMS\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.AssemblyInfo.cs
+D:\Projects\employee-maintenance-system\employee-maintenance-system\EMS\EMS.DataAccess\bin\Debug\netcoreapp2.1\EMS.DataAccess.deps.json
+D:\Projects\employee-maintenance-system\employee-maintenance-system\EMS\EMS.DataAccess\bin\Debug\netcoreapp2.1\EMS.DataAccess.dll
+D:\Projects\employee-maintenance-system\employee-maintenance-system\EMS\EMS.DataAccess\bin\Debug\netcoreapp2.1\EMS.DataAccess.pdb
+D:\Projects\employee-maintenance-system\employee-maintenance-system\EMS\EMS.DataAccess\bin\Debug\netcoreapp2.1\EMS.Model.pdb
+D:\Projects\employee-maintenance-system\employee-maintenance-system\EMS\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\employee-maintenance-system\employee-maintenance-system\EMS\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.csproj.CopyComplete
+D:\Projects\employee-maintenance-system\employee-maintenance-system\EMS\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.dll
+D:\Projects\employee-maintenance-system\employee-maintenance-system\EMS\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.pdb
+C:\Users\Srivatsan Seshadri\source\repos\EMS.Api\EMS.DataAccess\bin\Debug\netcoreapp2.1\EMS.DataAccess.deps.json
+C:\Users\Srivatsan Seshadri\source\repos\EMS.Api\EMS.DataAccess\bin\Debug\netcoreapp2.1\EMS.DataAccess.dll
+C:\Users\Srivatsan Seshadri\source\repos\EMS.Api\EMS.DataAccess\bin\Debug\netcoreapp2.1\EMS.DataAccess.pdb
+C:\Users\Srivatsan Seshadri\source\repos\EMS.Api\EMS.DataAccess\bin\Debug\netcoreapp2.1\EMS.Model.dll
+C:\Users\Srivatsan Seshadri\source\repos\EMS.Api\EMS.DataAccess\bin\Debug\netcoreapp2.1\EMS.Model.pdb
+C:\Users\Srivatsan Seshadri\source\repos\EMS.Api\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.csprojAssemblyReference.cache
+C:\Users\Srivatsan Seshadri\source\repos\EMS.Api\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Srivatsan Seshadri\source\repos\EMS.Api\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.AssemblyInfo.cs
+C:\Users\Srivatsan Seshadri\source\repos\EMS.Api\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Srivatsan Seshadri\source\repos\EMS.Api\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.csproj.CopyComplete
+C:\Users\Srivatsan Seshadri\source\repos\EMS.Api\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.dll
+C:\Users\Srivatsan Seshadri\source\repos\EMS.Api\EMS.DataAccess\obj\Debug\netcoreapp2.1\EMS.DataAccess.pdb
